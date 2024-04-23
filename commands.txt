@@ -1,0 +1,3 @@
+javac --enable-preview --source 21 <Class_Name>.java
+
+java --enable-preview --source 21 <Class_Name>
